@@ -30,6 +30,7 @@ BOOKBOT/
 ├── main.py
 ├── stats.py
 └── README.md
+
 ---
 
 ## 🚀 How to Run
@@ -90,6 +91,8 @@ z: 235
 ë: 2
 ô: 1
 ============= END ===============
+
+
 ✨ Features
 ✅ Case-insensitive character counting
 
@@ -97,5 +100,8 @@ z: 235
 
 ✅ Clean dictionary output for further analysis
 
+
 🧑‍💻 Author
 Created by Sunethma Welathanthri
+
+
