@@ -21,6 +21,7 @@ The program takes the path to a `.txt` file as a command-line argument, processe
 
 ## 🗂 Project Structure
 
+```
 BOOKBOT/
 ├── __pycache__/
 ├── books/
@@ -30,6 +31,7 @@ BOOKBOT/
 ├── main.py
 ├── stats.py
 └── README.md
+```
 
 ---
 
@@ -41,19 +43,27 @@ BOOKBOT/
 
 ### ✅ Run the Program
 
+Run the program using the following command:
+
 ```bash
 python3 main.py books/frankenstein.txt
+```
 
 Or with your own .txt file:
+```bash
 python3 main.py path/to/your/book.txt
+```
+---
+## ⚠️ Usage Notes
 
-⚠️ Usage Notes
-Make sure you run the script with one argument only: the path to the book file.
+- Make sure you run the script with one argument only: the path to the book file.
 
-If no file path or an incorrect path is provided, the program will exit with a helpful message.
+- If no file path or an incorrect path is provided, the program will exit with a helpful message.
 
-🔍 Sample Output
+---
 
+## 🔍 Sample Output
+```
 ============ BOOKBOT ============
 Analyzing book found at books/frankenstein.txt...
 ----------- Word Count ----------
@@ -91,17 +101,25 @@ z: 235
 ë: 2
 ô: 1
 ============= END ===============
+```
 
+---
 
 ## ✨ Features
+
 ✅ Case-insensitive character counting
 
 ✅ Includes all characters (spaces, punctuation, digits)
 
 ✅ Clean dictionary output for further analysis
 
+---
 
+
+---
 ## 🧑‍💻 Author
+
 Created by Sunethma Welathanthri
 
 
+---
