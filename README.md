@@ -93,7 +93,7 @@ z: 235
 ============= END ===============
 
 
-✨ Features
+## ✨ Features
 ✅ Case-insensitive character counting
 
 ✅ Includes all characters (spaces, punctuation, digits)
@@ -101,7 +101,7 @@ z: 235
 ✅ Clean dictionary output for further analysis
 
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Created by Sunethma Welathanthri
 
 
